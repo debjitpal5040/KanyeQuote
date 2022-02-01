@@ -1,0 +1,2 @@
+tkmacosx >= 1.0.4 #available only for macOs 
+requests >= 2.27.1
